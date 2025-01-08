@@ -36,7 +36,7 @@ Welcome to the **Cycling Project** repository! This project involves data cleani
 
 ### **Input Data**
 Place the following datasets in the `dataset/` folder at the root level:
-- `stages.csv`
+- `cyclists.csv`
 - `races.csv`
 
 ---
@@ -67,7 +67,7 @@ Run the code in the following order for a seamless experience:
 
 ```plaintext
 ├── dataset/
-│   ├── stages.csv
+│   ├── cyclists.csv
 │   ├── races.csv
 ├── pred/
 │   ├── pred.ipynb
