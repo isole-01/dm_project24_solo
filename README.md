@@ -28,7 +28,7 @@ Welcome to the **Cycling Project** repository! This project involves data cleani
 6. **`clustering.ipynb`**  
    - Implements the **clustering** analysis using the features prepared in `3aggregation_clustering.ipynb`.
 
-7. **`pred/pred.ipynb`**  
+7. **`prediction/pred.ipynb`**  
    - Implements **classification**, testing, and evaluation.
    - Final predictions and results are generated here.
 
